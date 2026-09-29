@@ -1,1 +1,1 @@
-The intention of this project is to display the HTML skills I've learned from the Odin project. 
+The intention of this project is to display the HTML skills I've learned from TOP. 
